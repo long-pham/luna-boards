@@ -14,7 +14,7 @@ requires-python = ">3.7"
 dependencies = [
     "amaranth @ git+https://github.com/amaranth-lang/amaranth.git@main",
     "amaranth-boards @ git+https://github.com/amaranth-lang/amaranth-boards.git@main",
-    "luna @ git+https://github.com/greatscottgadgets/luna.git@main",
+    "luna-usb @ git+https://github.com/greatscottgadgets/luna.git",
 ]
 
 [tool.setuptools.packages.find]
