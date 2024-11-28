@@ -12,7 +12,7 @@ license = {file = "LICENSE"}
 requires-python = ">3.7"
 
 dependencies = [
-    "amaranth @ git+https://github.com/amaranth-lang/amaranth.git@main",
+    "amaranth @ git+https://github.com/amaranth-lang/amaranth.git@v0.4.5",
     "amaranth-boards @ git+https://github.com/amaranth-lang/amaranth-boards.git@d2caa61a1ceb851da8e4e1109fddc56dc29e05ec",
     "luna-usb @ git+https://github.com/greatscottgadgets/luna.git",
 ]
